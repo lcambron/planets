@@ -1,0 +1,5 @@
+#comment rules of things to ignore below
+
+*.dat
+results/
+
