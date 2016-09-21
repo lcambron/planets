@@ -1,5 +1,4 @@
 #comment rules of things to ignore below
-
+# exclamations are exceptiosn to the rules, must go after the pattern it's not following
 *.dat
 results/
-
